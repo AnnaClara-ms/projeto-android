@@ -114,7 +114,7 @@ main img{
     height: 100%;
 }
 main img.pequena{
-    max-width: 350%;
+    max-width:320px;
     display: block;
     margin: auto;
 }
